@@ -1,6 +1,6 @@
 # Create an AKS Cluster and Deploy Applications
 
-## Introduction
+### Introduction
 
 Welcome to the "Create an AKS Cluster and Deploy Applications" lab! This project is designed to guide you through the process of setting up an Azure Kubernetes Service (AKS) cluster and deploying applications using modern DevOps tools. In this lab, you will:
 
